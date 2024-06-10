@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/learning_testcases/static/css/main.c58741ec.css",
+    "main.js": "/learning_testcases/static/js/main.cda6c9c0.js",
+    "static/js/453.a5979135.chunk.js": "/learning_testcases/static/js/453.a5979135.chunk.js",
+    "index.html": "/learning_testcases/index.html",
+    "main.c58741ec.css.map": "/learning_testcases/static/css/main.c58741ec.css.map",
+    "main.cda6c9c0.js.map": "/learning_testcases/static/js/main.cda6c9c0.js.map",
+    "453.a5979135.chunk.js.map": "/learning_testcases/static/js/453.a5979135.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c58741ec.css",
+    "static/js/main.cda6c9c0.js"
+  ]
+}
